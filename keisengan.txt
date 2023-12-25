@@ -2,6 +2,7 @@ list belajar
 - senin git + js lanjutan + smester 3 cuy
 - selasa js lanjutan + react js + smester 3 cuy
 - rabu node js tipis
+=======
 > ngopi
 > sebat
 > turu
