@@ -1,2 +1,4 @@
 rencana baru nih buat minggu depan
 - senin java + oop
+- selasa css3 + hmtl 5
+- rabu sass
