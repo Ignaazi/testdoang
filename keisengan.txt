@@ -4,4 +4,5 @@ list belajar
 - rabu node js tipis
 > ngopi
 > sebat
+> turu
 - kamis mantepin semua materi
